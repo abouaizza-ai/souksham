@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --color-primary: #123C2F;
+  --color-primary-hover: #1D5644;
+  --color-primary-soft: #EAF3EE;
+  --color-gold: #C8972C;
+  --color-gold-soft: #F7E8C1;
+  --color-sand: #F7F1E8;
+  --color-cream: #FFFCF6;
+  --color-ink: #171412;
+  --color-muted: #6B625C;
+  --color-border: #E5DDD2;
+  --color-danger: #B42318;
+  --color-success: #18794E;
+}
